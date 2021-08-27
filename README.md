@@ -9,7 +9,7 @@ I'm Mahmudul Hasan, Nickname is <b>Mahmudul.</b> I'm Frontend Web Developer and 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasanmeet&layout=compact&theme=radical" />
 </p>
-<h3>Things I code with <img src="https://image.flaticon.com/icons/svg/197/1006363.svg" width="13"/></h3>
+<h3>Things I code with</h3>
 <p>
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
