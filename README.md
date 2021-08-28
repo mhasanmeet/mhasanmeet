@@ -9,9 +9,10 @@ I'm Mahmudul Hasan, Nickname is <b>Mahmudul.</b>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=mhasanmeet&show_icons=true&theme=vue-dark" />
   </p>
   <p align="right">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasanmeet&layout=compact&theme=radical" />
+    <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasanmeet&layout=compact&theme=radical" />
   </p>
  </div>
+ 
 <h3>Things I code with</h3>
 <p>
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
