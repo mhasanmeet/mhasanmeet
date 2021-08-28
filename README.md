@@ -4,10 +4,14 @@
 <p>Welcome to my page! </br>
 I'm Mahmudul Hasan, Nickname is <b>Mahmudul.</b> 
 </br>I'm Frontend Web Developer and Backend lerner from Dhaka, Bangladesh. <img src="https://image.flaticon.com/icons/svg/197/197509.svg" width="13"/></p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mhasanmeet&show_icons=true&theme=vue-dark" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasanmeet&layout=compact&theme=radical" />
-</p>
+<div>
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=mhasanmeet&show_icons=true&theme=vue-dark" />
+  </p>
+  <p align="right">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasanmeet&layout=compact&theme=radical" />
+  </p>
+ </div>
 <h3>Things I code with</h3>
 <p>
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
