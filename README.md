@@ -2,11 +2,12 @@
 
 
 <p>Welcome to my page! </br>
-I'm Mahmudul Hasan, Nickname is <b>Mahmudul.</b> I'm Frontend Web Developer and Backend lerner from Dhaka, Bangladesh. <img src="https://image.flaticon.com/icons/svg/197/197509.svg" width="13"/></p>
-<p align="center">
+I'm Mahmudul Hasan, Nickname is <b>Mahmudul.</b> 
+</br>I'm Frontend Web Developer and Backend lerner from Dhaka, Bangladesh. <img src="https://image.flaticon.com/icons/svg/197/197509.svg" width="13"/></p>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mhasanmeet&show_icons=true&theme=vue-dark" />
 </p>
-<p align="center">
+<p align="right">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasanmeet&layout=compact&theme=radical" />
 </p>
 <h3>Things I code with</h3>
