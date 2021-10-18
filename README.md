@@ -57,8 +57,6 @@
 
 <h4>Connect and Contacts</h4>
 
-<p>Knock me at <a href="skype:live:.cid.5b00ed6f72d53db6?chat">Skype</a></p>
-
 ![Skype](https://img.shields.io/badge/live:.cid.5b00ed6f72d53db6-%2300AFF0.svg?style=plastic&logo=Skype&logoColor=white)
 [![Facebook Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mhasanmeet/)](https://www.facebook.com/mhasanmeet)
 [![Messenger Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=Messenger&logoColor=white&link=https://www.m.me/mhasanmeet/)](https://www.m.me/mhasanmeet)
