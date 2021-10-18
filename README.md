@@ -15,10 +15,11 @@
 <p>
   <!-- GitHub Followers -->
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/mhasanmeet?color=%23fff&label=GitHub%20Followers&logo=GitHub&style=plastic" />
-  <!-- GitHub Visitors -->
-  ![GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
   <!-- <img alt="" src="" />  -->
 </p>
+
+<!-- GitHub Visitors -->
+![GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 <h3>Currently I'm working with</h3>
 <p>
