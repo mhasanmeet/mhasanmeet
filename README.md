@@ -34,7 +34,6 @@
 
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-%23FF9A00?style=plastic&logo=adobeillustrator&logoColor=ffffff)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-%2331A8FF?style=plastic&logo=adobephotoshop&logoColor=ffffff)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6)
 
@@ -57,7 +56,7 @@
 
 <h4>Connect and Contacts</h4>
 
-![Skype](https://img.shields.io/badge/live:.cid.5b00ed6f72d53db6-%2300AFF0.svg?style=plastic&logo=Skype&logoColor=white)
+![Skype](https://img.shields.io/badge/live:.cid.5b00ed6f72d53db6-%2300AFF0.svg?style=flat-square&logo=Skype&logoColor=white)
 [![Facebook Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mhasanmeet/)](https://www.facebook.com/mhasanmeet)
 [![Messenger Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=Messenger&logoColor=white&link=https://www.m.me/mhasanmeet/)](https://www.m.me/mhasanmeet)
 [![Twitter Badge](https://img.shields.io/twitter/follow/mhasanmeet?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/mhasanmeet/)](https://www.twitter.com/mhasanmeet)
