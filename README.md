@@ -59,7 +59,7 @@
 
 <p>Knock me at <a href="skype:live:.cid.5b00ed6f72d53db6?chat">Skype</a></p>
 
-![Skype](https://img.shields.io/badge/<live:.cid.5b00ed6f72d53db6>-%2300AFF0.svg?style=plastic&logo=Skype&logoColor=white)
+![Skype](https://img.shields.io/badge/live:.cid.5b00ed6f72d53db6-%2300AFF0.svg?style=plastic&logo=Skype&logoColor=white)
 [![Facebook Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mhasanmeet/)](https://www.facebook.com/mhasanmeet)
 [![Messenger Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=Messenger&logoColor=white&link=https://www.m.me/mhasanmeet/)](https://www.m.me/mhasanmeet)
 [![Twitter Badge](https://img.shields.io/twitter/follow/mhasanmeet?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/mhasanmeet/)](https://www.twitter.com/mhasanmeet)
@@ -69,5 +69,6 @@
 <hr>
 
 <p>Do you want to make a GitHub ReadMe profile like me? Use this <a href="https://jbt.github.io/markdown-editor/">Online Editor.</a> Which helps me a lot. And Also check this <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme#tools">GitHub  repository</a> which have nice documentation about how you can make a nice GitHub ReadMe. If you think it is so much helpful, please give me a ⭐
+<br>
 <br>
 <img alt="Visitors" src="https://profile-counter.glitch.me/{mhasanmeet}/count.svg" />
