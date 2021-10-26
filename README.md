@@ -5,16 +5,12 @@
 
 <p>Full Stack Web Developer, Learner. Currently living in Dhaka, Bangladesh </p>
 
-<!-- <img alt="" src="" />--> 
-<!-- -->
-
 <p align="center">
   <!-- My GitHub Summary -->
   <img src="https://github-readme-stats.vercel.app/api?username=mhasanmeet&show_icons=true&theme=default" />
   <!-- My Most used language -->
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasanmeet&layout=compact&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasanmeet&layout=compact&theme=default" />
 </p>
-<p align="center">
 
 <h4>Currently I'm working with</h4>
 
