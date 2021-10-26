@@ -9,7 +9,7 @@
   <!-- My GitHub Summary -->
   <img src="https://github-readme-stats.vercel.app/api?username=mhasanmeet&show_icons=true&theme=default" />
   <!-- My Most used language -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasanmeet&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhasanmeet&layout=compact&theme=default" />
 </p>
 
 <h4>Currently I'm working with</h4>
