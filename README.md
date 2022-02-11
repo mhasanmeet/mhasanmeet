@@ -1,9 +1,9 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> Greetings (স্বাগতম)</h1>
-<h3>My name is Mahmudul Hasan, And I love ➕☕🏸💻 </h3>
+<h3>My name is Mahmudul Hasan, And I love ☕🏸💻 </h3>
 
 <hr>
 
-<p>Full Stack Web Developer, Learner. Currently living in Dhaka, Bangladesh </p>
+<p>Frontend Web Developer, Backend Learner</p>
 
 <p align="center">
   <!-- My GitHub Summary -->
