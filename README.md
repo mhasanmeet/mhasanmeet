@@ -16,22 +16,22 @@
 
 <p>Code & Programming</p>
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=plastic&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%2333A9DC?style=plastic&logo=css3&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-146EB0?style=plastic&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-8613F6?style=plastic&logo=bootstrap&logoColor=white)
+![TailWind CSS](https://img.shields.io/badge/-Tailwind_CSS-36B7F0?style=plastic&logo=tailwindcss&logoColor=white)
+![MarkDown](https://img.shields.io/badge/-Markdown-black?style=plastic&logo=markdown&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+![Vue JS](https://img.shields.io/badge/-Vue_JS-3FB27F?style=plastic&logo=vue.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-7377AD?style=plastic&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-E8111E?style=plastic&logo=laravel&logoColor=white)
+![MYSQL](https://img.shields.io/badge/-MySQL-DE8A00?style=plastic&logo=mysql&logoColor=white)
 
 <p>Design Tools</p>
 
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-%23FF9A00?style=plastic&logo=adobeillustrator&logoColor=ffffff)
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-%2331A8FF?style=plastic&logo=adobephotoshop&logoColor=ffffff)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-310000?style=plastic&logo=adobeillustrator&logoColor=F79500)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-001D34?style=plastic&logo=adobephotoshop&logoColor=2FA3F7)XD
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-450135?style=plastic&logo=adobexd&logoColor=F75EEE)
 
 <p>Others</p>
 
@@ -39,7 +39,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=plastic&logo=GoogleChrome&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Google_Chrome-1A9B5E?style=plastic&logo=googlechrome&logoColor=F7CD03)
 
 
 <h4>My GitHub activity</h4>
@@ -54,10 +54,9 @@
 
 ![Skype](https://img.shields.io/badge/live:.cid.5b00ed6f72d53db6-%2300AFF0.svg?style=flat-square&logo=Skype&logoColor=white)
 [![Facebook Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mhasanmeet/)](https://www.facebook.com/mhasanmeet)
-[![Messenger Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=Messenger&logoColor=white&link=https://www.m.me/mhasanmeet/)](https://www.m.me/mhasanmeet)
 [![Twitter Badge](https://img.shields.io/twitter/follow/mhasanmeet?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/mhasanmeet/)](https://www.twitter.com/mhasanmeet)
 [![LinkedIn Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mhasanmeet/)](https://www.linkedin.com/in/mhasanmeet)
-[![](https://img.shields.io/website?color=0968A6&style=flat-square&up_message=TechOceanBD.com&url=https%3A%2F%2Fwww.techoceanbd.com)](https://techoceanbd.com)
+[![](https://img.shields.io/website?color=0968A6&style=flat-square&up_message=TechOceanBD.com&url=https%3A%2F%2Fwww.mhasan.one)](https://mhasan.one)
 
 <hr>
 
