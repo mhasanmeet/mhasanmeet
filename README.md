@@ -30,10 +30,10 @@
 <p>Design Tools</p>
 
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe_Illustrator-310000?style=plastic&logo=adobeillustrator&logoColor=F79500)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-001D34?style=plastic&logo=adobephotoshop&logoColor=2FA3F7)XD
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe_Photoshop-001D34?style=plastic&logo=adobephotoshop&logoColor=2FA3F7)
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-450135?style=plastic&logo=adobexd&logoColor=F75EEE)
 
-<p>Others</p>
+<p>Others Tools</p>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)
@@ -56,7 +56,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mhasanmeet/)](https://www.facebook.com/mhasanmeet)
 [![Twitter Badge](https://img.shields.io/twitter/follow/mhasanmeet?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/mhasanmeet/)](https://www.twitter.com/mhasanmeet)
 [![LinkedIn Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mhasanmeet/)](https://www.linkedin.com/in/mhasanmeet)
-[![](https://img.shields.io/website?color=0968A6&style=flat-square&up_message=TechOceanBD.com&url=https%3A%2F%2Fwww.mhasan.one)](https://mhasan.one)
+[![](https://img.shields.io/website?color=0968A6&style=flat-square&up_message=mhasan.one&url=https%3A%2F%2Fwww.mhasan.one)](https://mhasan.one)
 
 <hr>
 
