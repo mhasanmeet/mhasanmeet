@@ -42,11 +42,10 @@
 ![Adobe XD](https://img.shields.io/badge/-Google_Chrome-1A9B5E?style=plastic&logo=googlechrome&logoColor=F7CD03)
 
 
-<!-- <h4>My GitHub activity</h4>
+<!-- 
+<h4>My GitHub activity</h4>
 <p>
-  <!-- GitHub Followers -->
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/mhasanmeet?color=%23fff&label=GitHub%20Followers&logo=GitHub&style=plastic" />
-  <!-- GitHub Visitors -->
   <img alt="GitHub Visitors" src="https://visitor-badge.glitch.me/badge?page_id=mhasanmeet.visitor-badge" />
 </p> 
 -->
