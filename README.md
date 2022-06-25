@@ -48,7 +48,8 @@
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/mhasanmeet?color=%23fff&label=GitHub%20Followers&logo=GitHub&style=plastic" />
   <!-- GitHub Visitors -->
   <img alt="GitHub Visitors" src="https://visitor-badge.glitch.me/badge?page_id=mhasanmeet.visitor-badge" />
-</p> -->
+</p> 
+-->
 
 <h4>Connect and Contacts</h4>
 
