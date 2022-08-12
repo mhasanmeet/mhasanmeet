@@ -20,7 +20,7 @@ My name is Mahmudul Hasan, and I love ☕ (coffee) 🏸 (play badminton) & 💻 
 
 ### 📱 Contacts & Connect
 
-<a href="skype:mhasan.meet@hotmail.com?chat" target="_blank"><img alt="Skype" src="https://img.shields.io/badge/-Mahmudul-blue?style=flat-square&logo=Skype&logoColor=white&link=https://www.facebook.com/mhasanmeet/"></a>
+<a href="skype:mhasan.meet@hotmail.com?chat" target="_blank">Skype</a>
 [![Facebook Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mhasanmeet/)](https://www.facebook.com/mhasanmeet)
 [![LinkedIn Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mhasanmeet/)](https://www.linkedin.com/in/mhasanmeet)
 [![](https://img.shields.io/website?color=0968A6&style=flat-square&up_message=mhasan.one&url=https%3A%2F%2Fwww.mhasan.one)](https://mhasan.one)
