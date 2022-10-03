@@ -5,10 +5,11 @@ My name is Mahmudul Hasan, and I love ☕ (coffee) 🏸 (play badminton) & 💻 
 ### 🛠 My Tech Stack
 
 - Code & Programming 💻 — `HTML5`, `CSS3`, `C`, `C++`, `JavaScript`, `PHP` 
-- Frameworks 🍭 — `Tailwind CSS`, `Bootstrap`, `React` 
-- Database 🛢 — `MySQL` 
-- Tools 🔧 — `VSCode`, `Git`, `GitHub`, `MarkDown`
-- Design Tools 🍭 — `Adobe Illustrator`, `Adobe Photoshop`, `Figma`
+- Frameworks 🍭 — `SASS`, `Tailwind CSS`, `Bootstrap`, `React`, `Laravel`
+- Database 🛢 — `MySQL`, `PostgreSQL`, `MongoDB`
+- Tools 🔧 — `VSCode`, `Git`, `GitHub`, `MarkDown`, `Adobe Illustrator`, `Adobe Photoshop`, `Figma`
+- Hosting & Cloud ☁ — `cPanel`
+- CMS 🎨 - `WordPress`
 
 ### 📊 GitHub Stats
 
