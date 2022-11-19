@@ -4,9 +4,9 @@ My name is Mahmudul Hasan, and I love ☕ (coffee) 🏸 (play badminton) & 💻 
 
 ### 🛠 My Tech Stack
 
-- Code & Programming 💻 — `HTML5`, `CSS3`, `C`, `C++`, `JavaScript`, `PHP` 
+- Code & Programming 💻 — `HTML5`, `CSS3`, `JavaScript`, `PHP` 
 - Frameworks 🍭 — `SASS`, `Tailwind CSS`, `Bootstrap`, `React`, `Laravel`
-- Database 🛢 — `MySQL`, `PostgreSQL`, `MongoDB`
+- Database 🛢 — `MySQL`
 - Tools 🔧 — `VSCode`, `Git`, `GitHub`, `MarkDown`, `Adobe Illustrator`, `Adobe Photoshop`, `Figma`
 - Hosting & Cloud ☁ — `cPanel`
 - CMS 🎨 - `WordPress`
