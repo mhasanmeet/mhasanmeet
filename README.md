@@ -4,11 +4,11 @@ My name is Mahmudul Hasan, and I love ☕ (coffee) 🏸 (play badminton) & 💻 
 
 ### 🛠 My Tech Stack
 
-- Code & Programming 💻 — `HTML5`, `CSS3`, `JavaScript`, `PHP` 
-- Frameworks 🍭 — `SASS`, `Tailwind CSS`, `Bootstrap`, `React`, `Laravel`
-- Database 🛢 — `MySQL`
+- Code & Programming 💻 — `HTML5`, `CSS3`, `JavaScript`, `PHP`, `Node JS` 
+- Frameworks 🍭 — `SASS`, `Tailwind CSS`, `Bootstrap`, `React`, `Laravel`, `Express`
+- Database 🛢 — `MySQL`, `MongoDB`
 - Tools 🔧 — `VSCode`, `Git`, `GitHub`, `MarkDown`, `Adobe Illustrator`, `Adobe Photoshop`, `Figma`
-- Hosting & Cloud ☁ — `cPanel`
+- Hosting & Cloud ☁ — `cPanel`, `Vercel`, `Heroku`
 - CMS 🎨 - `WordPress`
 
 ### 📊 GitHub Stats
