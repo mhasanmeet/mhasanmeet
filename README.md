@@ -18,4 +18,3 @@ You can find my tech stack in [here](https://stackshare.io/mhasanmeet/my-stack)
 
 [![Facebook Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mhasanmeet/)](https://www.facebook.com/mhasanmeet)
 [![LinkedIn Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mhasanmeet/)](https://www.linkedin.com/in/mhasanmeet)
-[![](https://img.shields.io/website?color=0968A6&style=flat-square&up_message=mhasan.one&url=https%3A%2F%2Fwww.mhasan.one)](https://mhasan.one)
