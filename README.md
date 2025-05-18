@@ -12,5 +12,5 @@ Hey, I'm Mahmudul Hasan! I'm a full-stack web developer who specializes in front
 
 ### 📱 Contacts & Connect
 
-[![Facebook Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mhasanmeet/)](https://www.facebook.com/mhasanmeet)
+[![Facebook Profile](https://img.shields.io/badge/mhasanmeet-077DEB?style=round-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/mhasanmeet/)](https://www.facebook.com/mhasanmeet)
 [![LinkedIn Badge](https://img.shields.io/badge/-mhasanmeet-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/mhasanmeet/)](https://www.linkedin.com/in/mhasanmeet)
