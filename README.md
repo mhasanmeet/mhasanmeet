@@ -2,6 +2,7 @@
 
 Hey, I'm Mahmudul Hasan! I'm a full-stack web developer who specializes in front-end work. Nothing pairs better with coding than a good cup of coffee ☕ and some creative problem-solving 💻.
 
+<!---
 ### 📊 GitHub Stats
 
 ![Mahmudul Hasan's Github Statistics](https://github-readme-stats.vercel.app/api?username=mhasanmeet&show_icons=true&theme=default)
@@ -9,6 +10,7 @@ Hey, I'm Mahmudul Hasan! I'm a full-stack web developer who specializes in front
 ### 👨‍💻 My Most used Language Stats
 
 ![Mahmudul Hasan's Github Language Uses Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=mhasanmeet&layout=compact&theme=default)
+-->
 
 ### 📱 Contacts & Connect
 
