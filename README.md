@@ -1,10 +1,6 @@
 ## <img src="./tata.gif" width="35"/> Greetings (স্বাগতম)
 
-My name is Mahmudul Hasan, and I love ☕ (coffee) 🏸 (play badminton) & 💻 (coding). I'm Frontend Web Developer
-
-### 🛠 My Tech Stack
-
-You can find my tech stack in [here](https://stackshare.io/mhasanmeet/my-stack)
+Hey, I'm Mahmudul Hasan! I'm a full-stack web developer who specializes in front-end work. Nothing pairs better with coding than a good cup of coffee ☕ and some creative problem-solving 💻.
 
 ### 📊 GitHub Stats
 
